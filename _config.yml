@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Pinyao Song Resume"
+description: "Resume of Pinyao Song"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,21 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Pinyao Song"
+resume_title:                   "UQ Human-Centred Computing Ph.D. Student"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "p.song at uq.edu.au"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "xxx"
+resume_contact_address:         "UQ"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hello! I am Pinyao, a PhD canditiate in HCI at The University of Queensland. I am doing my last year of my PhD and about to graduate by the end of the year, so currently on <strong>JOB MARKET</strong>. 
+I'm co-supervised by Dr. Aparna Hebbani and Dr. Dhaval Vyas. My current research focus includes co-design with vulnerable communities. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
